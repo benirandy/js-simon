@@ -1,0 +1,49 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+
+#numeri-casuali {
+  font-size: 20px;
+  margin-bottom: 16px;
+}
+
+
+#numeri-utente {
+  font-size: 20px;
+  margin-bottom: 16px;
+}
+
+
+input {
+  font-size: 20px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-right: 8px;
+}
+
+
+button {
+  font-size: 20px;
+  padding: 8px 16px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+#risultato {
+  font-size: 20px;
+  margin-top: 16px;
+}
